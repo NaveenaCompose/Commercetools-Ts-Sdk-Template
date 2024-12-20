@@ -1,0 +1,27 @@
+{
+  "name": "commercetools-commercetools-ts-sdk-template-qmp7x8",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@commercetools/platform-sdk": "4.11.0",
+    "@commercetools/sdk-client-v2": "2.2.0",
+    "@types/react": "18.2.7",
+    "@types/react-dom": "18.2.4",
+    "commercetools-commercetools-ts-sdk-template-qmp7x8": "file:",
+    "encoding": "0.1.13",
+    "node-fetch": "2.6.7",
+    "react": "18.2.0",
+    "react-collapsible": "2.10.0",
+    "react-dom": "18.2.0",
+    "react-hot-toast": "2.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
